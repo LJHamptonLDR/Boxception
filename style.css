@@ -1,0 +1,27 @@
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+#a{
+  position:absolute;
+  top: 150px;
+  left: 500px;
+  width:400px;
+  height:400px;
+  border: 2px solid black;
+}
+#b{
+  position: absolute;
+  top:62px;
+  left:65px;
+  width:275px;
+  height:275px;
+  border: 2px solid black;
+}
+#c{
+  position: absolute;
+  top: 80px;
+  left:80px;
+  width: 100px;
+  height:100px;
+  border: 2px solid black;}
